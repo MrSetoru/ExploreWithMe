@@ -5,4 +5,4 @@ on:
 
 jobs:
   build:
-    uses: MrSetoru/ExploreWithMe/.github/workflows/api-tests.yml@ci
+    uses: yandex-praktikum/java-explore-with-me/.github/workflows/api-tests.yml@ci
